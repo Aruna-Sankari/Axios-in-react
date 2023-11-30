@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Axios-in-react/static/css/main.95fd1ac8.css",
+    "main.js": "/Axios-in-react/static/js/main.dfe2cc55.js",
+    "static/js/787.a5a00b74.chunk.js": "/Axios-in-react/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/Axios-in-react/index.html",
+    "main.95fd1ac8.css.map": "/Axios-in-react/static/css/main.95fd1ac8.css.map",
+    "main.dfe2cc55.js.map": "/Axios-in-react/static/js/main.dfe2cc55.js.map",
+    "787.a5a00b74.chunk.js.map": "/Axios-in-react/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fd1ac8.css",
+    "static/js/main.dfe2cc55.js"
+  ]
+}
